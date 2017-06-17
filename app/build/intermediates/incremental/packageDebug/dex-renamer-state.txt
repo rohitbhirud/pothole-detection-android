@@ -1,0 +1,7 @@
+#Tue Jun 06 12:14:40 IST 2017
+base.0=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92f062f6414082851c805175899b75a83032aa07
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7e53ca08aa33c43493374b5d30a0eb8e2cc8a78a\\classes.dex
+base.1=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7e53ca08aa33c43493374b5d30a0eb8e2cc8a78a
+file.0=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92f062f6414082851c805175899b75a83032aa07\\classes.dex

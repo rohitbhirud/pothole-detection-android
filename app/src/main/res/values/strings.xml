@@ -1,0 +1,82 @@
+<resources>
+
+    <string name="app_name">Potehole Detection</string>
+
+    <!-- Home -->
+    <string name="title_home">Potehole Detection</string>
+    <string name="btn_complaints">Complaints</string>
+    <string name="btn_voice_complaints">Voice Complaints</string>
+    <string name="btn_logout">Logout</string>
+    <string name="lbl_say_something">Say Somthing!!!</string>
+    <string name="err_device_does_not_support_stt">Your device does not support Speech To Text.</string>
+
+    <!-- Login -->
+    <string name="title_login">Login</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_remember_password">Remember password</string>
+    <string name="err_enter_username">Please enter username</string>
+    <string name="err_enter_password">Please enter password</string>
+    <string name="msg_login_failed">Login failed.</string>
+    <string name="msg_login_in">Login in. Please wait...</string>
+    <string name="msg_send_complaint">Sending complaint. Please wait...</string>
+    <string name="btn_login">Login</string>
+
+    <!-- Registration -->
+    <string name="title_registration">Registration</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_address">Address</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_mobile">Mobile</string>
+    <string name="err_enter_name">Please enter name.</string>
+    <string name="err_enter_address">Please enter address.</string>
+    <string name="err_enter_valid_email">Please enter valid emailId.</string>
+    <string name="err_enter_valid_mobile">Please enter valid mobile number.</string>
+    <string name="lbl_adhar_no">Adhar Number.</string>
+    <string name="err_enter_valid_adhar_no">Please enter valid Adhar number.</string>
+    <string name="msg_registration_failed">Registration failed.</string>
+    <string name="msg_registration_successful">Registration successful.</string>
+    <string name="msg_registering">Registering. Please wait...</string>
+    <string name="btn_register">Register</string>
+
+    <!-- Add Complaint -->
+    <string name="title_add_complaint">Add Complaint</string>
+    <string name="lbl_complaint_type">Complaint Type</string>
+
+    <string-array name="arr_complaint_type">
+        <item>Complaint Type</item>
+        <item>Accident</item>
+        <item>Potholes</item>
+        <item>Traffic</item>
+    </string-array>
+
+    <string name="lbl_title">Title</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_attach_image">Attach Image</string>
+    <string name="btn_attach_image">Attach Image</string>
+    <string name="option_gallery">From Gallery</string>
+    <string name="option_camera">From Camera</string>
+    <string name="btn_add">Add Complaint</string>
+    <string name="err_select_complaint_type">Please select complaint type.</string>
+    <string name="err_enter_complaint_title">Please enter complaint title.</string>
+    <string name="err_enter_complaint_description">Please enter complaint description.</string>
+    <string name="err_attach_complaint_image">Please attach complaint image.</string>
+    <string name="msg_complaint_failed">Add complaint failed.</string>
+    <string name="msg_adding_complaint_in">Adding complaint. Please wait...</string>
+    <string name="btn_add_complaint">Add Complaint</string>
+
+    <!-- Dialog -->
+    <string name="dlg_title_info">Info</string>
+    <string name="dlg_title_warning">Warning</string>
+    <string name="dlg_title_error">Error</string>
+    <string name="dlg_title_confirmation">Confirmation</string>
+    <string name="dlg_btn_ok">OK</string>
+    <string name="dlg_btn_cancel">Cancel</string>
+    <string name="dlg_btn_yes">Yes</string>
+    <string name="dlg_btn_no">no</string>
+    <string name="msg_confirm_exit">Are you sure you want to exit this application?</string>
+    <string name="complaint_list">Complaint List</string>
+    <string name="loading_list">Getting list...</string>
+    <string name="err_location_service">Location service is off \nplease make sure it is started. </string>
+
+</resources>

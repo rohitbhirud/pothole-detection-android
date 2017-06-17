@@ -1,0 +1,22 @@
+#Mon Jun 05 22:39:58 IST 2017
+renamed.6=classes2.dex
+renamed.5=classes6.dex
+renamed.4=classes3.dex
+renamed.3=classes.dex
+renamed.2=classes7.dex
+renamed.1=classes4.dex
+renamed.0=classes5.dex
+base.6=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_82ea3b46a9a261ae7b2773f754317a66659af25b
+base.5=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_acfc3105997d919446692b9c0362b3c950a9096c
+base.4=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8dc01f84830b228eccedb0594ebcde9920a3aebe
+base.3=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_755bfd675fc9613cec92b56ca08a204ad185b9fe
+base.2=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.0_02baeb670494e05445d1d19bd633f25b3b7164c6
+base.1=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_99c21d299899f05163d64b4c8c9c4d885b42eb50
+base.0=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac3cf27cec774a35095c3397a554649fbc604e97
+file.6=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_82ea3b46a9a261ae7b2773f754317a66659af25b\\classes.dex
+file.5=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_acfc3105997d919446692b9c0362b3c950a9096c\\classes.dex
+file.4=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8dc01f84830b228eccedb0594ebcde9920a3aebe\\classes.dex
+file.3=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_755bfd675fc9613cec92b56ca08a204ad185b9fe\\classes.dex
+file.2=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.0_02baeb670494e05445d1d19bd633f25b3b7164c6\\classes.dex
+file.1=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_99c21d299899f05163d64b4c8c9c4d885b42eb50\\classes.dex
+file.0=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac3cf27cec774a35095c3397a554649fbc604e97\\classes.dex

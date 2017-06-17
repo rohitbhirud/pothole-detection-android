@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="screen_bg">#5B9BD5</color>
+    <color name="label">#FFFFFF</color>
+    <!-- Edit text -->
+    <color name="et_border">#000000</color>
+    <color name="et_hint">#d0d0d0</color>
+    <color name="et_text">#000000</color>
+    <color name="title_bar_bg">#000000</color>
+
+    <!-- Buttons -->
+    <color name="btn_text">#ffffff</color>
+    <color name="btn_orange_normal">#FF8D19</color>
+    <color name="btn_orange_pressed">#FF8D30</color>
+    <color name="btn_yellow_normal">#939300</color>
+    <color name="btn_yellow_pressed">#939330</color>
+    <color name="btn_green_normal">#2ECA2E</color>
+    <color name="btn_green_pressed">#2ECA30</color>
+    <color name="btn_gray_normal">#D1D1D1</color>
+    <color name="btn_gray_pressed">#D1D130</color>
+
+</resources>

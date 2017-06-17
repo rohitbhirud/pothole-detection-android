@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_bg"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/screen_bg"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="20dip" >
+
+        <Button
+            android:id="@+id/btn_complaints"
+            style="@style/button"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="25dip"
+            android:background="@drawable/btn_orange_selector"
+            android:text="@string/btn_complaints" />
+
+
+        <Button
+            android:id="@+id/btn_voice_complaint"
+            style="@style/button"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="25dip"
+            android:background="@drawable/btn_yellow_selector"
+            android:text="@string/btn_voice_complaints" />
+
+        <Button
+            android:id="@+id/btn_logout"
+            style="@style/button"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/btn_gray_selector"
+            android:text="@string/btn_logout" />
+    </LinearLayout>
+
+</ScrollView>

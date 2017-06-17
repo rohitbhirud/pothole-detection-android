@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\src\\main\\res\\drawable\\btn_green_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_yellow_selector.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\src\\main\\res\\drawable\\btn_yellow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et_border.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\src\\main\\res\\drawable\\et_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\src\\main\\res\\drawable\\btn_gray_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_orange_selector.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\src\\main\\res\\drawable\\btn_orange_selector.xml"
+    }
+]

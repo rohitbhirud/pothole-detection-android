@@ -1,0 +1,4 @@
+#Mon Jun 05 22:39:59 IST 2017
+base.0=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rohit\\AndroidStudioProjects\\Pothole\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\e959a6c73a021172e0dbca0270c37c401ae2ea9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\pre-dexed\debug\classes_8dc01f84830b228eccedb0594ebcde9920a3aebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\71b38b0e13f47f4c116c058de4cf67ef20004f0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\pre-dexed\debug\classes_ac3cf27cec774a35095c3397a554649fbc604e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\b09774fa2190025f06f8bdd7ed674d0ed5fdd9c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\pre-dexed\debug\classes_755bfd675fc9613cec92b56ca08a204ad185b9fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_02baeb670494e05445d1d19bd633f25b3b7164c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_92f062f6414082851c805175899b75a83032aa07\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\527c91c4572b3907986ad3f653ba7a01f6474115\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\pre-dexed\debug\classes_99c21d299899f05163d64b4c8c9c4d885b42eb50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="929909fc5f6c7428b6842982498d80c9891e222c">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7e53ca08aa33c43493374b5d30a0eb8e2cc8a78a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\c1a41f48636cd5fe0044d932aa1b6452661f18f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\pre-dexed\debug\classes_82ea3b46a9a261ae7b2773f754317a66659af25b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\58d3ad90cf3f0c19acff4c7f8b6d712e94f74b42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Rohit\AndroidStudioProjects\Pothole\app\build\intermediates\pre-dexed\debug\classes_acfc3105997d919446692b9c0362b3c950a9096c.jar" />
+    </item>
+
+</items>

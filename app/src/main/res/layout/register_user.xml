@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_bg"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/screen_bg"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="20dip" >
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_name" />
+
+        <EditText
+            android:id="@+id/et_name"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:hint="@string/lbl_name"
+            android:inputType="textCapWords" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_password" />
+
+        <EditText
+            android:id="@+id/et_password"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:hint="@string/lbl_password"
+            android:inputType="textPassword"
+            android:longClickable="false" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_address" />
+
+        <EditText
+            android:id="@+id/et_address"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:hint="@string/lbl_address" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_email" />
+
+        <EditText
+            android:id="@+id/et_email"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:hint="@string/lbl_email" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_mobile" />
+
+        <EditText
+            android:id="@+id/et_mobile"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:digits="0987654321-+"
+            android:hint="@string/lbl_mobile"
+            android:inputType="phone" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_adhar_no" />
+
+        <EditText
+            android:id="@+id/et_adhar_no"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:hint="@string/lbl_adhar_no" />
+
+        <Button
+            android:id="@+id/btn_register"
+            style="@style/button"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/btn_orange_selector"
+            android:text="@string/btn_register" />
+    </LinearLayout>
+
+</ScrollView>

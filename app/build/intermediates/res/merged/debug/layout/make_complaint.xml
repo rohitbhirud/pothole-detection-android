@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_bg"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/screen_bg"
+        android:orientation="vertical"
+        android:padding="20dip" >
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_complaint_type" />
+
+        <Spinner
+            android:id="@+id/spnr_complaint_type"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:entries="@array/arr_complaint_type" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_title" />
+
+        <EditText
+            android:id="@+id/et_title"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:hint="@string/lbl_title" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_description" />
+
+        <EditText
+            android:id="@+id/et_description"
+            style="@style/edit_text"
+            android:layout_marginBottom="10dip"
+            android:hint="@string/lbl_description" />
+
+        <TextView
+            style="@style/tv_label"
+            android:layout_marginBottom="3dip"
+            android:text="@string/lbl_attach_image" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip" >
+
+            <ImageView
+                android:id="@+id/iv_complaint"
+                android:layout_width="150dip"
+                android:layout_height="150dip"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="3dip" />
+
+            <ProgressBar
+                android:id="@+id/pb_add_image"
+                style="@android:style/Widget.ProgressBar.Large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_add_image_percentage"
+                style="@style/tv_label"
+                android:layout_gravity="center"
+                android:visibility="gone" />
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/btn_add_image"
+            style="@style/button"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dip"
+            android:background="@drawable/btn_green_selector"
+            android:text="@string/btn_attach_image" />
+
+        <Button
+            android:id="@+id/btn_add"
+            style="@style/button"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/btn_orange_selector"
+            android:text="@string/btn_add" />
+    </LinearLayout>
+
+</ScrollView>

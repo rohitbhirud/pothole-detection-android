@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_complaint_type">
+        <item>Complaint Type</item>
+        <item>Accident</item>
+        <item>Potholes</item>
+        <item>Traffic</item>
+    </string-array>
+    <color name="btn_gray_normal">#D1D1D1</color>
+    <color name="btn_gray_pressed">#D1D130</color>
+    <color name="btn_green_normal">#2ECA2E</color>
+    <color name="btn_green_pressed">#2ECA30</color>
+    <color name="btn_orange_normal">#FF8D19</color>
+    <color name="btn_orange_pressed">#FF8D30</color>
+    <color name="btn_text">#ffffff</color>
+    <color name="btn_yellow_normal">#939300</color>
+    <color name="btn_yellow_pressed">#939330</color>
+    <color name="et_border">#000000</color>
+    <color name="et_hint">#d0d0d0</color>
+    <color name="et_text">#000000</color>
+    <color name="label">#FFFFFF</color>
+    <color name="screen_bg">#5B9BD5</color>
+    <color name="title_bar_bg">#000000</color>
+    <string name="app_name">Potehole Detection</string>
+    <string name="btn_add">Add Complaint</string>
+    <string name="btn_add_complaint">Add Complaint</string>
+    <string name="btn_attach_image">Attach Image</string>
+    <string name="btn_complaints">Complaints</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_voice_complaints">Voice Complaints</string>
+    <string name="complaint_list">Complaint List</string>
+    <string name="dlg_btn_cancel">Cancel</string>
+    <string name="dlg_btn_no">no</string>
+    <string name="dlg_btn_ok">OK</string>
+    <string name="dlg_btn_yes">Yes</string>
+    <string name="dlg_title_confirmation">Confirmation</string>
+    <string name="dlg_title_error">Error</string>
+    <string name="dlg_title_info">Info</string>
+    <string name="dlg_title_warning">Warning</string>
+    <string name="err_attach_complaint_image">Please attach complaint image.</string>
+    <string name="err_device_does_not_support_stt">Your device does not support Speech To Text.</string>
+    <string name="err_enter_address">Please enter address.</string>
+    <string name="err_enter_complaint_description">Please enter complaint description.</string>
+    <string name="err_enter_complaint_title">Please enter complaint title.</string>
+    <string name="err_enter_name">Please enter name.</string>
+    <string name="err_enter_password">Please enter password</string>
+    <string name="err_enter_username">Please enter username</string>
+    <string name="err_enter_valid_adhar_no">Please enter valid Adhar number.</string>
+    <string name="err_enter_valid_email">Please enter valid emailId.</string>
+    <string name="err_enter_valid_mobile">Please enter valid mobile number.</string>
+    <string name="err_location_service">Location service is off \nplease make sure it is started. </string>
+    <string name="err_select_complaint_type">Please select complaint type.</string>
+    <string name="lbl_address">Address</string>
+    <string name="lbl_adhar_no">Adhar Number.</string>
+    <string name="lbl_attach_image">Attach Image</string>
+    <string name="lbl_complaint_type">Complaint Type</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_mobile">Mobile</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_remember_password">Remember password</string>
+    <string name="lbl_say_something">Say Somthing!!!</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_username">Username</string>
+    <string name="loading_list">Getting list...</string>
+    <string name="msg_adding_complaint_in">Adding complaint. Please wait...</string>
+    <string name="msg_complaint_failed">Add complaint failed.</string>
+    <string name="msg_confirm_exit">Are you sure you want to exit this application?</string>
+    <string name="msg_login_failed">Login failed.</string>
+    <string name="msg_login_in">Login in. Please wait...</string>
+    <string name="msg_registering">Registering. Please wait...</string>
+    <string name="msg_registration_failed">Registration failed.</string>
+    <string name="msg_registration_successful">Registration successful.</string>
+    <string name="msg_send_complaint">Sending complaint. Please wait...</string>
+    <string name="option_camera">From Camera</string>
+    <string name="option_gallery">From Gallery</string>
+    <string name="title_add_complaint">Add Complaint</string>
+    <string name="title_home">Potehole Detection</string>
+    <string name="title_login">Login</string>
+    <string name="title_registration">Registration</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar"/>
+    <style name="AppTheme" parent="AppBaseTheme"/>
+    <style name="bottom_bar_button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/btn_orange_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/btn_text</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">middle</item>
+    </style>
+    <style name="button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/btn_text</item>
+        <item name="android:paddingLeft">20dip</item>
+        <item name="android:paddingRight">20dip</item>
+        <item name="android:paddingTop">10dip</item>
+        <item name="android:paddingBottom">10dip</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="edit_text">
+        <item name="android:background">@drawable/et_border</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">10dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/et_text</item>
+        <item name="android:textColorHint">@color/et_hint</item>
+    </style>
+    <style name="tv_header">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/label</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="tv_label">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/label</item>
+    </style>
+    <style name="tv_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/label</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+</resources>
