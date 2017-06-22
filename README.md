@@ -1,5 +1,8 @@
-# pothole-detection-android
-Automated Pothole Detection Using Accelerometer Sensor ( Android )
+<div align="center">
+<h1>Automated Pothole Detection Using Accelerometer Sensor</h1> 
+<p align="center"><img src="https://i.ytimg.com/vi/Zpvv9TdQU2k/maxresdefault.jpg" width="200px"></p>
+</div>
+<br>
 
 This was my project for final year of Computer Engineering.
 
