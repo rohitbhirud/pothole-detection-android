@@ -6,11 +6,9 @@
 
 This was my project for final year of Computer Engineering.
 
-Technology Used :  Android Platform &amp; PHP / MySQL
+Technology Used :  Android Platform &amp; PHP / MySQL [ Laravel ]
 
-Laravel source code of this project <a href="https://github.com/rohitbhirud/automted-pothole-detection-laravel" target="_blank">click here</a>
-
-You can download apk on : <a href="http://hubject.in" target="_blank">http://hubject.in</a>
+Laravel back-end source code of this project <a href="https://github.com/rohitbhirud/automted-pothole-detection-laravel" target="_blank">click here</a>
 
 Features used are :
 	<ol>
